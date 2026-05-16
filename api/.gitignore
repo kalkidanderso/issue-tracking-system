@@ -1,0 +1,7 @@
+node_modules
+request.rest
+.env
+uploads
+pnpm-lock.yml
+error.log
+exceptions.log
