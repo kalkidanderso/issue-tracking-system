@@ -2,8 +2,8 @@
 
 This repository contains two apps:
 
-- `api/` — Express + MySQL backend
-- `web/` — React frontend
+- `api/` - Express + MySQL backend
+- `web/` - React frontend
 
 ## Prerequisites
 
